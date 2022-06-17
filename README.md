@@ -1,3 +1,25 @@
+##  Ho to run this project
+After Pulling it or Downloading it you run, 
+npm install to install all packages needed to get started.
+afterward run start to get started.
+
+## How it works
+user put the GitHub username and the system will fetch the required information and display them to UI
+and user may also check the History of searched Usernames through History Btn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
