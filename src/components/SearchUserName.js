@@ -40,19 +40,19 @@ const search = async () =>{
       <div className='card'>    
         <Form className="my-form">
           <FormGroup>
-              <Label>Names: <div>{user.name}</div> </Label>                
+              <Label>Names: <div className='desc'>{user.name}</div> </Label>                
           </FormGroup>
           <FormGroup>
-              <Label >Email:  <div>{user.email}</div> </Label>
+              <Label >Email:  <div className='desc'>{user.email}</div> </Label>
           </FormGroup>
           <FormGroup>
-              <Label>Bio: <div>{user.bio}</div></Label>                
+              <Label>Bio: <div className='desc'>{user.bio}</div></Label>                
           </FormGroup>
           <FormGroup>
-              <Label>URL:  <div>{user.url}</div></Label>               
+              <Label>URL:  <div className='desc'>{user.url}</div></Label>               
           </FormGroup>
           <Form.Group>
-              <Label>Description:  <div>{user.description}</div></Label>
+              <Label>Description:  <div className='desc'>{user.description}</div></Label>
           </Form.Group>
           <FormGroup>
           <Label>Avatar picture: </Label>

@@ -49,9 +49,9 @@ ul .item{
   
 }
 
-.tag{
-  /* text-decoration: none; */
-  font-weight: 180px;
+.desc{
+  font-weight: bold;
+  color: rgb(62, 8, 186);
 }
 
 .histNavigation{
